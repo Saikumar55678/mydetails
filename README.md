@@ -1,10 +1,9 @@
-# mydetails
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Details</title>
+    <title>Eedumudi Saikumar - Python Software Developer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,12 +13,10 @@
         }
         .container {
             max-width: 800px;
-            margin: 20px auto;
+            margin: 0 auto;
             padding: 20px;
-            background-color: #fff;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
-        h1, h2 {
+        h1 {
             color: #333;
         }
         p {
@@ -31,34 +28,36 @@
     <div class="container">
         <header>
             <h1>Eedumudi Saikumar</h1>
-            <p>Became Python Developer | Aspiring Developer</p>
+            <p>Python Software Developer</p>
         </header>
         <section>
             <h2>About Me</h2>
             <p>
-                I am a passionate Python software developer with a strong foundation in programming and problem-solving.
-                My goal is to contribute to meaningful projects that utilize my skills and allow me to continue learning and growing as a developer.
+                I am a passionate and motivated Python software developer, eager to contribute my skills and learn from experienced professionals in the field. My focus is on creating efficient and maintainable code to solve real-world problems.
             </p>
         </section>
         <section>
             <h2>Skills</h2>
             <ul>
-                <li>Python</li>
-                <li>HTML5</li>
-                <li>OOPS CONCEPT</li>
-                <li>Libraries like</li>
-                <li>Numpy</li>
-                <li>Pandas</li>
-                <li>Webscraping</li>
-                <li>Version Control (Git)</li>
+                <li>Python programming</li>
+                <li>Object-oriented programming (OOP)</li>
+                <li>Problem-solving</li>
+                <li>Version control with Git</li>
+                <li>Basic web development (HTML, CSS)</li>
+                <li>Python Libraries(Numpy,Pandas)</li>
+                <li>Data Visualization tool(Power BI)</li>
             </ul>
         </section>
         <section>
-            <h2>Contact</h2>
+            <h2>Contact Information</h2>
             <p>
-        
-                
-      
+                Feel free to reach out to me via email at <a href="mailto:eedumudisaikumar@gmail.com">youremail@example.com</a>.
+            </p>
+        </section>
+        <section>
+            <h2>GitHub Profile</h2>
+            <p>
+                Check out my GitHub profile: <a href="https://github.com/Saikumar55678" target="_blank">https://github.com/yourusername</a>
             </p>
         </section>
     </div>
